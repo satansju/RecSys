@@ -1,0 +1,8 @@
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\bin\Debug\P2_recsys.exe.config
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\bin\Debug\P2_recsys.exe
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\bin\Debug\P2_recsys.pdb
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\bin\Debug\MathNet.Numerics.dll
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\bin\Debug\MathNet.Numerics.xml
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\obj\Debug\P2_recsys.csprojResolveAssemblyReference.cache
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\obj\Debug\P2_recsys.exe
+C:\Users\sataa\Source\Repos\p2-code2\P2_recsys\obj\Debug\P2_recsys.pdb
